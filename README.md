@@ -19,7 +19,7 @@ Ways to Run Program:
 1. Create a copy or download file
 2. Open project file comp115_project1 in your python IDE or text editor
 3. Run the program:
-
+file:///C:/Users/User/Downloads/project1_willow_tree_turtle_drawing.code.txt
 4. A window will open showing a willow tree
 5. Click anywhere in the window to close it
 
