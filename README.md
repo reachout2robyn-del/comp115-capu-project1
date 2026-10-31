@@ -15,7 +15,8 @@ Here is my Willow tree drawing bellow:
 
 <img width="1002" height="894" alt="20261030_193920 (1)" src="https://github.com/user-attachments/assets/a2907adc-fdb1-4fab-8752-9d15ff45c96a" />
 
-* Create a copy or download file to run
-* Open project file comp115capuproject1
+Ways to Run Program:
+1. Create a copy or download file
+2. Open project file comp115capuproject1
 
 
